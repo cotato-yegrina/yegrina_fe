@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "index": 1,
+      "quizId": 1,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "1895년 명성황후가 시해된 사건을 뭐라고 하는가?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 1,
+          "number": "1",
+          "content": "을사조약"
+        },
+        {
+          "id": 2,
+          "number": "2",
+          "content": "을미의병"
+        },
+        {
+          "id": 3,
+          "number": "3",
+          "content": "아관파천"
+        },
+        {
+          "id": 4,
+          "number": "4",
+          "content": "을미사변"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 2,
+      "quizId": 2,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "학생의 신분으로 독립운동에 참가한 위인은?",
+      "score": 5,
+      "choices": [
+        {
+          "id": 5,
+          "number": "1",
+          "content": "유관순"
+        },
+        {
+          "id": 6,
+          "number": "2",
+          "content": "안중근"
+        },
+        {
+          "id": 7,
+          "number": "3",
+          "content": "여운형"
+        },
+        {
+          "id": 8,
+          "number": "4",
+          "content": "이승만"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 3,
+      "quizId": 3,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "광야를 쓴 시인이자 독립운동가의 이름은?",
+      "score": 15,
+      "choices": [
+        {
+          "id": 9,
+          "number": "1",
+          "content": "윤동주"
+        },
+        {
+          "id": 10,
+          "number": "2",
+          "content": "이상"
+        },
+        {
+          "id": 11,
+          "number": "3",
+          "content": "이육사"
+        },
+        {
+          "id": 12,
+          "number": "4",
+          "content": "김정일"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 4,
+      "quizId": 4,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "대한민국 임시정부 수립일은?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 13,
+          "number": "1",
+          "content": "1917.03.01"
+        },
+        {
+          "id": 14,
+          "number": "2",
+          "content": "1917.04.13"
+        },
+        {
+          "id": 15,
+          "number": "3",
+          "content": "1919.03.01"
+        },
+        {
+          "id": 16,
+          "number": "4",
+          "content": "1919.04.13"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 5,
+      "quizId": 5,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "일제강점기부터 광복까지의 기간은?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 17,
+          "number": "1",
+          "content": "25년"
+        },
+        {
+          "id": 18,
+          "number": "2",
+          "content": "30년"
+        },
+        {
+          "id": 19,
+          "number": "3",
+          "content": "35년"
+        },
+        {
+          "id": 20,
+          "number": "4",
+          "content": "40년"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 6,
+      "quizId": 21,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "하얼빈역에서 이토 히로부미를 살해한 자는?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 81,
+          "number": "1",
+          "content": "고애신"
+        },
+        {
+          "id": 82,
+          "number": "2",
+          "content": "안창호"
+        },
+        {
+          "id": 83,
+          "number": "3",
+          "content": "윤봉길"
+        },
+        {
+          "id": 84,
+          "number": "4",
+          "content": "안중근"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 7,
+      "quizId": 22,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "고종이 대한의 상황을 알리기 위해 1907년 파견한 특사는?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 85,
+          "number": "1",
+          "content": "헤이그 특사"
+        },
+        {
+          "id": 86,
+          "number": "2",
+          "content": "광복절 특사"
+        },
+        {
+          "id": 87,
+          "number": "3",
+          "content": "암스테르담 특사"
+        },
+        {
+          "id": 88,
+          "number": "4",
+          "content": "케이준 특사"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 8,
+      "quizId": 23,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "청산리 대첩을 이끈 장군 이름은?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 89,
+          "number": "1",
+          "content": "홍범도"
+        },
+        {
+          "id": 90,
+          "number": "2",
+          "content": "김좌진"
+        },
+        {
+          "id": 91,
+          "number": "3",
+          "content": "최유진"
+        },
+        {
+          "id": 92,
+          "number": "4",
+          "content": "이재진"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 9,
+      "quizId": 24,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "초기 신흥강습소라는 이름을 가진 독립군 양성 기관은?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 93,
+          "number": "1",
+          "content": "대한의용군"
+        },
+        {
+          "id": 94,
+          "number": "2",
+          "content": "대한독립군"
+        },
+        {
+          "id": 95,
+          "number": "3",
+          "content": "의열단"
+        },
+        {
+          "id": 96,
+          "number": "4",
+          "content": "신흥무관학교"
+        }
+      ],
+      "answer": 0
+    },
+    {
+      "index": 10,
+      "quizId": 25,
+      "category": "BEFORE_INDEPENDENCE",
+      "content": "의열단의 단장으로 해방 후 조선인민민주주의 공화국에 남아 활동한 인물은?",
+      "score": 10,
+      "choices": [
+        {
+          "id": 97,
+          "number": "1",
+          "content": "김효창"
+        },
+        {
+          "id": 98,
+          "number": "2",
+          "content": "김원봉"
+        },
+        {
+          "id": 99,
+          "number": "3",
+          "content": "이원창"
+        },
+        {
+          "id": 100,
+          "number": "4",
+          "content": "김두한"
+        }
+      ],
+      "answer": 0
+    }
+  ]
+}
